@@ -1,5 +1,5 @@
 # Field-Boundary-Webinar
-Repository for webinar content
+Repository for webinar content on the 25th October, 2023 organised with the Kenya Space Agency
 
 South Africa initial model file is located at: https://drive.google.com/file/d/1oT0HlIk9Wiy3PMgIuSZzdT1csnlgsN-I/view?usp=sharing
 
