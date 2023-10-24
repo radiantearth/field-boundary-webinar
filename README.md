@@ -1,3 +1,7 @@
+<div align="center">
+<img src="re-logo.png" width="230">
+</div>
+
 # Field-Boundary-Webinar
 Repository for webinar content on the 25th October, 2023 organised with the Kenya Space Agency
 
