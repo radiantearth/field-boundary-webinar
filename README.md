@@ -2,7 +2,7 @@
 <img src="re-logo.png" width="230">
 </div>
 
-# Field-Boundary-Webinar
+# field-boundary-webinar
 Repository for webinar content on the 25th October, 2023 organised with the Kenya Space Agency
 
 South Africa initial model file is located [here](https://drive.google.com/file/d/1oT0HlIk9Wiy3PMgIuSZzdT1csnlgsN-I/view?usp=sharing)
